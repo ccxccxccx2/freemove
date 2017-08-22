@@ -1,0 +1,128 @@
+{
+    "version": "1",
+    "array": [
+        {
+            "id": "1",
+            "title": "Action movies",
+            "subTitle": "subtitle1",
+            "imageUrl": "https://i.ytimg.com/vi/qINwCRM8acM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBR8wxssCr3o9EQ59F_e0B2n2olAQ",
+            "actionUrl": "https://m.youtube.com/results?q=action+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        },
+        {
+            "id":  "2",
+            "title": "Love movies",
+            "subTitle": "subtitle2",
+            "imageUrl": "https://i.ytimg.com/vi/cF7nPWCn5Nc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDys4t6DOHZh50_qAaLDyGu-EXwrA",
+            "actionUrl": "https://m.youtube.com/results?q=love+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        },
+        {
+            "id": "3",
+            "title": "Horror movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/9Wu-P6phNaE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuef9QBUewJMfnffQ847F3sAlCYQ",
+            "actionUrl": "https://m.youtube.com/results?sp=CAMSAhgCUBQ%253D&q=horror+film+full+movie",
+            "displayMode": "2"
+        },
+          {
+            "id": "4",
+            "title": "Comedy movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/tdE2-xI3VNE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD1xUEi5DcRE-z7H2khL6h8HERFPQ",
+            "actionUrl": "https://m.youtube.com/results?sp=CAMSAhgCUBQ%253D&q=comedy+film+full+movie",
+            "displayMode": "2"
+        },
+        {
+            "id": "5",
+            "title": "Scifi movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/KpySbeVslfc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4iYKPznGp-E4Vv6Nv-T8xCK5v6A",
+            "actionUrl": "https://m.youtube.com/results?q=Sci-fi+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        }
+        ,
+        {
+            "id": "6",
+            "title": "Animated movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/Q1JTjLiV3ls/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-ny4aZ95Wv4SzBloxnhQn5IqLFw",
+            "actionUrl": "https://m.youtube.com/results?sp=CANQFA%253D%253D&q=animated+film+full+movie",
+            "displayMode": "2"
+        }
+        ,
+        {
+            "id": "7",
+            "title": "Action movies hollywood hd",
+            "subTitle": "subtitle1",
+            "imageUrl": "https://i.ytimg.com/vi/LB0nFIw-UUw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC77VNHKfAQn6BtnrgsJTntoetB3A",
+            "actionUrl": "https://m.youtube.com/playlist?list=PL-XolezOharH6rR_YjwxWaMdG3WhCDPWF",
+            "displayMode": "1"
+        },
+        {
+            "id":  "8",
+            "title": "New America War Movies",
+            "subTitle": "subtitle2",
+            "imageUrl": "https://i.ytimg.com/vi/K2TT1nrRGAw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCveWu68jYJbJxqQ_mJRK5xzQ4WLg",
+            "actionUrl": "https://www.youtube.com/playlist?list=PLd0H7xevAE0drX3PsA--NasEVLrOXMGDl",
+            "displayMode": "1"
+        },
+        {
+            "id": "9",
+            "title": "Sex & Love affair full movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/0KkAMwWcJNk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYo85ZmK4ENKznyZeaWCCea2myhg",
+            "actionUrl": "https://m.youtube.com/playlist?list=PL6LnenM740Wx_BBtte8A44O3wD4X9GyVK",
+            "displayMode": "1"
+        },
+          {
+            "id": "10",
+            "title": "Full Horror movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/6rfT-euDr9A/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDEjae-MtEt11z-OWJVX8Lms3NXLg",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLC2C9BFC77856C976",
+            "displayMode": "1"
+        },
+        {
+            "id": "11",
+            "title": "Hindi movies  new releases",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/xPucSI5sPnI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATmqCQb7N2nLOmdny3oawjWivuCw",
+            "actionUrl": "https://m.youtube.com/playlist?list=PL5UhdOfUi7jdv2h1gUaRw1Z6_URFIkPwB",
+            "displayMode": "1"
+        },
+        {
+            "id": "12",
+            "title": "Movies Korean Comedy Full Movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/jE-i7GnoCCA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4vFtMdoH3jcpLbjYUjygTsnXp5g",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLJAjMqjB4cq2zOj_son5e0GvU76Cvt-GM",
+            "displayMode": "1"
+        },
+           {
+            "id": "13",
+            "title": "Scifi & Fantasy Films",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/RPrTsADX6Mw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCix4OchcIbcMghzUTRp-UXyg5HJw",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLFKP4NzHZDRz0HJVJwGyHbpZpE1oadcPI",
+            "displayMode": "1"
+        },
+        {
+            "id": "14",
+            "title": "Animated movies hollywood",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/ypg1PPK8TrM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAN6lBFLX2Pcdao7Ag9HNNn9yjoPg",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLcQZXcLM3vITG4maSKDLuwytXP4IXJn6B",
+            "displayMode": "1"
+        }
+        ,
+        {
+            "id": "15",
+            "title": "Action movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/axjEkzbPIxM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9p9Juiz2IrC7vyd73khVu-AbRkA",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLOJePxwTVoMcTN082St3hrIVewv3PP8Ye",
+            "displayMode": "1"
+        }
+    ]
+}
