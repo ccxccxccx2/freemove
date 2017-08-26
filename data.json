@@ -49,8 +49,49 @@
             "imageUrl": "https://i.ytimg.com/vi/Q1JTjLiV3ls/hqdefault.jpg",
             "actionUrl": "https://m.youtube.com/results?sp=CANQFA%253D%253D&q=animated+film+full+movie",
             "displayMode": "2"
+        },
+          {
+            "id": "6",
+            "title": "Drama movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/FKXkkSt0MoA/hqdefault.jpg",
+            "actionUrl": "https://www.youtube.com/results?q=drama+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
         }
         ,
+          {
+            "id": "6",
+            "title": "Thrillers movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/AQbTzZqmlWA/hqdefault.jpg",
+            "actionUrl": "https://www.youtube.com/results?q=thrillers+film+full+movie&sp=CAMSAhgCUBQ%253D ",
+            "displayMode": "2"
+        }
+        ,
+          {
+            "id": "6",
+            "title": "Family movies",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/KNJkpdBnGwU/hqdefault.jpg",
+            "actionUrl": "https://www.youtube.com/results?q=family +film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        },
+          {
+            "id": "6",
+            "title": "Kids show",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/3SnFBVl17-4/hqdefault.jpg",
+            "actionUrl": "https://www.youtube.com/results?q=kids show+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        },
+          {
+            "id": "6",
+            "title": "Romance movie ",
+            "subTitle": "subtitle3",
+            "imageUrl": "https://i.ytimg.com/vi/WJh7kGXFOYc/hqdefault.jpg",
+            "actionUrl": "https://www.youtube.com/results?q=romance+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "displayMode": "2"
+        },
         {
             "id": "7",
             "title": "Action movies hollywood hd",
