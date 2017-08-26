@@ -6,7 +6,7 @@
             "title": "2017 movies",
             "subTitle": "subtitle1",
             "imageUrl": "https://i.ytimg.com/vi/0p-y_5E_RtI/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=2017+full+movies",
+            "actionUrl": "https://m.youtube.com/results?q=2017+full+movies",
             "displayMode": "2"
         },
         {
@@ -63,7 +63,7 @@
             "title": "Drama movies",
             "subTitle": "subtitle3",
             "imageUrl": "https://i.ytimg.com/vi/FKXkkSt0MoA/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=drama+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "actionUrl": "https://m.youtube.com/results?q=drama+film+full+movie&sp=CAMSAhgCUBQ%253D",
             "displayMode": "2"
         }
         ,
@@ -72,7 +72,7 @@
             "title": "Thrillers movies",
             "subTitle": "subtitle3",
             "imageUrl": "https://i.ytimg.com/vi/AQbTzZqmlWA/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=thrillers+film+full+movie&sp=CAMSAhgCUBQ%253D ",
+            "actionUrl": "https://m.youtube.com/results?q=thrillers+film+full+movie&sp=CAMSAhgCUBQ%253D ",
             "displayMode": "2"
         }
         ,
@@ -81,7 +81,7 @@
             "title": "Family movies",
             "subTitle": "subtitle3",
             "imageUrl": "https://i.ytimg.com/vi/KNJkpdBnGwU/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=family +film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "actionUrl": "https://m.youtube.com/results?q=family +film+full+movie&sp=CAMSAhgCUBQ%253D",
             "displayMode": "2"
         },
           {
@@ -89,7 +89,7 @@
             "title": "Kids show",
             "subTitle": "subtitle3",
             "imageUrl": "https://i.ytimg.com/vi/3SnFBVl17-4/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=kids show+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "actionUrl": "https://m.youtube.com/results?q=kids show+film+full+movie&sp=CAMSAhgCUBQ%253D",
             "displayMode": "2"
         },
           {
@@ -97,7 +97,7 @@
             "title": "Romance movie ",
             "subTitle": "subtitle3",
             "imageUrl": "https://i.ytimg.com/vi/WJh7kGXFOYc/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/results?q=romance+film+full+movie&sp=CAMSAhgCUBQ%253D",
+            "actionUrl": "https://m.youtube.com/results?q=romance+film+full+movie&sp=CAMSAhgCUBQ%253D",
             "displayMode": "2"
         },
         {
@@ -113,7 +113,7 @@
             "title": "New America War Movies",
             "subTitle": "subtitle2",
             "imageUrl": "https://i.ytimg.com/vi/K2TT1nrRGAw/hqdefault.jpg",
-            "actionUrl": "https://www.youtube.com/playlist?list=PLd0H7xevAE0drX3PsA--NasEVLrOXMGDl",
+            "actionUrl": "https://m.youtube.com/playlist?list=PLd0H7xevAE0drX3PsA--NasEVLrOXMGDl",
             "displayMode": "1"
         },
         {
@@ -160,7 +160,7 @@
             "id": "20",
             "title": "Animated movies hollywood",
             "subTitle": "subtitle3",
-            "imageUrl": "https://i.ytimg.com/vi/ypg1PPK8TrM/hqdefault.jpg",
+            "imageUrl": "https://i.ytimg.com/vi/a9tOkiFtDRk/hqdefault.jpg",
             "actionUrl": "https://m.youtube.com/playlist?list=PLcQZXcLM3vITG4maSKDLuwytXP4IXJn6B",
             "displayMode": "1"
         }
@@ -169,7 +169,7 @@
             "id": "21",
             "title": "Action movies",
             "subTitle": "subtitle3",
-            "imageUrl": "https://i.ytimg.com/vi/axjEkzbPIxM/hqdefault.jpg",
+            "imageUrl": "https://i.ytimg.com/vi/60ogJS9YD8k/hqdefault.jpg",
             "actionUrl": "https://m.youtube.com/playlist?list=PLOJePxwTVoMcTN082St3hrIVewv3PP8Ye",
             "displayMode": "1"
         }
